@@ -8,7 +8,7 @@ The Koans are a set of tasks to complete. Prepared tests checks if they are done
 
 Make sure you have [Node.js](https://nodejs.org/en/download/) and [Python 2](https://www.python.org/downloads/release/python-2712/) installed.
 
-  1. `git clone https://github.com/arkency/reactjs_koans.git`
+  1. `git clone https://github.com/pairing4good/reactjs_koans.git`
   2. `cd reactjs_koans`
   3. `npm run setup`
 
